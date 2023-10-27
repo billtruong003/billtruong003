@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [billwebsite.github.io](billwebsite.github.io)
 
-- 💬 Ask me about **Unity Game Development**
-
 - 📫 How to reach me **truongbill003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
