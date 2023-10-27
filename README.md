@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Applaydu](https://play.google.com/store/apps/details?id=com.ferrero.applayduGP&hl=en&gl=US)
 
-- 👨‍💻 All of my projects are available at [billwebsite.github.io]([billwebsite.github.io](https://billwebsite.github.io/))
+- 👨‍💻 All of my projects are available at [My Portfolio](https://billwebsite.github.io/)
 
 - 📫 How to reach me **truongbill003@gmail.com**
 
