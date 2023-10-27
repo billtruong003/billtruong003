@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/billtruong003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="billtruong003" height="30" width="40" /></a>
 <a href="https://fb.com/truongbill003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="truongbill003" height="30" width="40" /></a>
 <a href="https://instagram.com/bill.workaholic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bill.workaholic" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCdRe_4FG7JhOERlfcyeNhnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="billthedev" height="30" width="40" /></a>
+<a href="youtube.com/@BillTheDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="billthedev" height="30" width="40" /></a>
 <a href="https://discord.gg/truongngocchau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="truongngocchau" height="30" width="40" /></a>
 </p>
 
