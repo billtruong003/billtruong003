@@ -1,7 +1,6 @@
 <div align="center" style="font-family: 'Press Start 2P', cursive; background-color: #0d0d0d; color: #f39c12; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);">
   <h1 style="font-size: 2.5em; text-shadow: 3px 3px #2e86de;">Bill's GitHub Profile</h1>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&weight=800&size=25&duration=3000&pause=1000&color=F77C00&background=79797900&center=true&multiline=true&random=false&width=500&height=170&lines=Passionate+Unity+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Programming+Instructor+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Special+Field+In+Game+Solution+%F0%9F%92%BC;2D%2C+3D%2C+AR%2C+VR+%F0%9F%92%BB)](https://git.io/typing-svg)
-  <img src="https://visitcount.itsvg.in/api?id=billtruong003&icon=7&color=1" alt="Visitor Count" style="margin-bottom: 20px;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=800&size=25&duration=3000&pause=1000&color=F77C00&background=79797900&center=true&multiline=true&random=false&width=500&height=170&lines=Passionate+Unity+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Programming+Instructor+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Special+Field+In+Game+Solution+%F0%9F%92%BC;2D%2C+3D%2C+AR%2C+VR+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
   <h2>🌐 Connect with Me</h2>
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
