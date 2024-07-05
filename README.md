@@ -47,17 +47,17 @@
 
   ## 📊 GitHub Stats
   <div align="center" style="margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=billtruong003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=billtruong003&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billtruong003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=billtruong003&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=billtruong003&theme=onedark&hide_border=true" alt="GitHub Streak" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billtruong003&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin: 10px;">
   </div>
 
   ## 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=billtruong003&theme=apprentice&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin-bottom: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=billtruong003&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin-bottom: 20px;">
 
   ## ✍️ Random Dev Quote
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Random Dev Quote" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin-bottom: 20px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=onedark" alt="Random Dev Quote" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin-bottom: 20px;">
 
   ## 🔝 Top Contributed Repo
-  <img src="https://github-contributor-stats.vercel.app/api?username=billtruong003&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin-bottom: 20px;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=billtruong003&limit=5&theme=onedark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin-bottom: 20px;">
 </div>
