@@ -3,7 +3,7 @@ name: generate animation
 on:
   # Chạy tự động mỗi 24 giờ
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */48 * * *"
 
   # Cho phép chạy thủ công workflow bất cứ lúc nào
   workflow_dispatch:
