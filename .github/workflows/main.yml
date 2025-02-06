@@ -10,7 +10,6 @@ on:
 
   # Chạy khi có push lên nhánh master
   push:
-    branches:
     - master
 
 jobs:

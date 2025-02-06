@@ -50,7 +50,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=billtruong003&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin: 10px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/billtruong003/billtruong003/output/github-contribution-grid-snake-dark.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/billtruong003/billtruong003/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/billtruong003/billtruong003/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/billtruong003/billtruong003/output/github-contribution-grid-snake.svg">
     </picture>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billtruong003&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin: 10px;">
   </div>
