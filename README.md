@@ -57,7 +57,7 @@
   </div>
 
   ## 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=billtruong003&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin-bottom: 20px;">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   ## ✍️ Random Dev Quote
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=onedark" alt="Random Dev Quote" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin-bottom: 20px;">
