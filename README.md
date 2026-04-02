@@ -46,22 +46,29 @@
   ---
 
   ## 📊 GitHub Stats
-  <div align="center" style="margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=billtruong003&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin: 10px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/billtruong003/billtruong003/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/billtruong003/billtruong003/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/billtruong003/billtruong003/output/github-contribution-grid-snake.svg">
-    </picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billtruong003&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin: 10px;">
-  </div>
+
+  <!-- Stats & Top Languages: auto-generated SVGs stored in profile/ folder via GitHub Actions -->
+  <img src="./profile/stats.svg" alt="GitHub Stats" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin: 10px;">
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=billtruong003&theme=onedark&hide_border=false" alt="GitHub Streak" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin: 10px;">
+  </a>
+  <br>
+  <img src="./profile/top-langs.svg" alt="Top Languages" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin: 10px;">
+
+  <!-- Snake Animation: auto-generated via GitHub Actions -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="./profile/github-snake.svg">
+  </picture>
 
   ## 🏆 GitHub Trophies
-  [![trophy](https://github-profile-trophy.vercel.app/?username=billtruong003&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=billtruong003&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies">
+  </a>
 
   ## ✍️ Random Dev Quote
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=onedark" alt="Random Dev Quote" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin-bottom: 20px;">
 
-  ## 🔝 Top Contributed Repo
-  <img src="https://github-contributor-stats.vercel.app/api?username=billtruong003&limit=5&theme=onedark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; margin-bottom: 20px;">
 </div>
