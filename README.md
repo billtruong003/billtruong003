@@ -50,22 +50,27 @@
 ## 📊 System Status Window
 
 <a href="https://github.com/billtruong003">
-  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=status" alt="System Status Window">
+  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=status" width="60%" alt="System Status Window">
 </a>
 
 <br><br>
 
 <p align="center">
-  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=skill" alt="Passive Skills">
-  <br><br>
-  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=quest" alt="Active Quest">
+  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=stat&target=STR" width="20%" alt="STR Stat">
+  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=stat&target=AGI" width="20%" alt="AGI Stat">
+  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=stat&target=INT" width="20%" alt="INT Stat">
 </p>
 
-<br>
+<p align="center">
+  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=skill" width="35%" alt="Passive Skills">
+  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=quest" width="35%" alt="Active Quest">
+</p>
 
-<a href="https://github.com/billtruong003">
-  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=contribution" alt="Contribution Analysis">
-</a>
+<p align="center">
+  <a href="https://github.com/billtruong003">
+    <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=contribution" width="49%" alt="Contribution Analysis">
+  </a>
+</p>
 
 ## 🐍 Activity Pattern
 <picture>
