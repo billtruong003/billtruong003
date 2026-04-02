@@ -56,13 +56,8 @@
 <br><br>
 
 <p align="center">
-  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=stat&target=STR" alt="STR Stat">
-  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=stat&target=AGI" alt="AGI Stat">
-  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=stat&target=INT" alt="INT Stat">
-</p>
-
-<p align="center">
   <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=skill" alt="Passive Skills">
+  <br><br>
   <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=quest" alt="Active Quest">
 </p>
 
