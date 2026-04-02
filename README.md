@@ -80,10 +80,9 @@
   </picture>
 
   ## 🏆 GitHub Trophies
-  <!-- Main endpoint is down (503). Using volunteer-hosted mirrors. -->
-  <!-- If ALL mirrors break, fork ryo-ma/github-profile-trophy & deploy on Vercel -->
+  <!-- Self-hosted on your own Vercel instance — no more 503! -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-winning.vercel.app/?username=billtruong003&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy-omega-one.vercel.app/?username=billtruong003&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies">
   </a>
 
   ## ✍️ Random Dev Quote
