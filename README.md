@@ -53,17 +53,21 @@
   <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=status" width="60%" alt="System Status Window">
 </a>
 
-<br><br>
+<p align="center">
+  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=skill" width="35%" alt="Passive Skills">
+</p>
+
+<p align="center">
+  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=quest" width="35%" alt="Active Quest">
+</p>
 
 <p align="center">
   <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=stat&target=STR" width="20%" alt="STR Stat">
   <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=stat&target=AGI" width="20%" alt="AGI Stat">
   <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=stat&target=INT" width="20%" alt="INT Stat">
-</p>
-
-<p align="center">
-  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=skill" width="35%" alt="Passive Skills">
-  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=quest" width="35%" alt="Active Quest">
+  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=stat&target=VIT" width="20%" alt="VIT Stat">
+  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=stat&target=LUK" width="20%" alt="LUK Stat">
+  <img src="https://git-profile-awaken.vercel.app/api?username=billtruong003&theme=tokyonight&mode=mortal&widget=stat&target=CHA" width="20%" alt="CHA Stat">
 </p>
 
 <p align="center">
