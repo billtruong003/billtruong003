@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="144.85"
+          width="144.84"
           height="8"
           fill="#7355dd"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="144.85"
+          x="144.84"
           y="0"
-          width="50.68"
+          width="50.69"
           height="8"
           fill="#222c37"
         />
@@ -198,7 +198,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#222c37" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        ShaderLab 20.27%
+        ShaderLab 20.28%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
