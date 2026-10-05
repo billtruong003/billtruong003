@@ -3,7 +3,7 @@
   "level": 14,
   "overall": "SS",
   "overallPercentile": 0.9908305299006913,
-  "layout": "custom",
+  "layout": "bento",
   "class": {
     "name": "Holy Knight",
     "element": "Light",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-05T17:04:33.909Z"
+    },
     {
       "kind": "stat",
       "subject": "STR",
@@ -163,17 +170,17 @@
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 3
+      "value": 6
     },
     {
       "id": "boss-slayer",
@@ -187,22 +194,27 @@
     },
     {
       "id": "collector",
-      "tier": 0,
-      "value": 3
+      "tier": 1,
+      "value": 5
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-05",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-04",
         "cleared": 3,
         "total": 3
       }
     ],
-    "perfectDays": 1,
-    "run": 1,
-    "bestRun": 1,
-    "questsDone": 3,
+    "perfectDays": 2,
+    "run": 2,
+    "bestRun": 2,
+    "questsDone": 6,
     "bosses": [
       "2026-09-28"
     ],
@@ -210,8 +222,10 @@
     "kinds": [
       "contribute",
       "mp",
-      "commit"
+      "commit",
+      "streak",
+      "three"
     ]
   },
-  "syncedAt": "2026-10-05T16:47:30.914Z"
+  "syncedAt": "2026-10-05T17:04:33.909Z"
 }
