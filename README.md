@@ -2,7 +2,11 @@
 
 # Bill Truong · Bill The Dev
 
-**Unity Engineer · Games, XR & Tools** · [billthedev.com](https://www.billthedev.com) · [Play my games](https://billtruong003.itch.io/) · [Download CV](https://www.billthedev.com/Bill_Resume.pdf)
+**Unity Engineer · Games, XR & Tools** · Ho Chi Minh City · onsite Korea
+
+[billthedev.com](https://www.billthedev.com) · [CV](https://www.billthedev.com/Bill_Resume.pdf) · [Email](mailto:billtruong003@gmail.com) · [LinkedIn](https://www.linkedin.com/in/billtruong003/) · [itch.io](https://billtruong003.itch.io/)
+<br>
+YouTube: [Bill Dev](https://www.youtube.com/@BillTheDev) · [Bill VR Gamer](https://www.youtube.com/@BillVRGamer) · [Bill AI Trainer](https://www.youtube.com/@BillAITrainer) · [Facebook](https://www.facebook.com/billthedev/) · [Instagram](https://instagram.com/bill.workaholic) · [Discord](https://discord.gg/truongngocchau)
 
 </div>
 
