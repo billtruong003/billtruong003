@@ -79,7 +79,7 @@
 <use href="#i-sword" x="647.5" y="128" width="20" height="20" fill="#3d8bff"/>
 <text x="687.5" y="130" class="strong" fill="#e6edf7">Relentless</text>
 <path transform="translate(644.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(654.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#3d8bff"/><path transform="translate(664.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="687.5" y="149" class="caption" fill="#e6edf7">1,179 / 5,000</text>
+<text x="687.5" y="149" class="caption" fill="#e6edf7">1,182 / 5,000</text>
 <text x="687.5" y="165" class="code" fill="#8a9bc0">COMMITS</text>
 </g>
 <g>

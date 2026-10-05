@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.9908245662783157,
+  "overallPercentile": 0.9908305299006913,
   "layout": "custom",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1179,
-      "rank": "S",
-      "percentile": 0.9799850822827926
+      "value": 1182,
+      "rank": "SS",
+      "percentile": 0.9800651991597517
     },
     {
       "code": "AGI",
@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "stat",
+      "subject": "STR",
+      "from": "S",
+      "to": "SS",
+      "at": "2026-10-05T16:47:30.914Z"
+    },
+    {
       "kind": "achievement",
       "subject": "night-owl",
       "from": "1",
@@ -76,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1179
+      "value": 1182
     },
     {
       "id": "unbroken",
@@ -206,5 +213,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-05T16:42:52.370Z"
+  "syncedAt": "2026-10-05T16:47:30.914Z"
 }
