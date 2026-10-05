@@ -1,5 +1,6 @@
 {
   "username": "billtruong003",
+  "layout": "custom",
   "theme": "solo_leveling",
   "title": "night-owl",
   "activity": "arise",
@@ -7,5 +8,66 @@
   "motion": "full",
   "timezone": "Asia/Ho_Chi_Minh",
   "hours": true,
-  "widgets": ["hunter", "status", "achievements", "activity", "quest", "skills", "contribution", "combat", "hours", "daily", "runes"]
+  "widgets": [
+    "levelup",
+    "banner",
+    "hunter",
+    "bio", "career",
+    "contacts", "cv",
+    "ladder",
+    "web", "skills",
+    "arsenal",
+    "spotlight",
+    "activity",
+    "board", "oracle",
+    "daily", "hours",
+    "contribution", "combat",
+    "achievements",
+    "runes"
+  ],
+  "banner": {
+    "style": "typewriter",
+    "lines": [
+      "Player billtruong003 has logged in.",
+      "Unity Engineer · Games, XR & Tools",
+      "Gameplay, multiplayer, VR and shaders for phones and Quest",
+      "2.5M+ YouTube views · 10 browser games · 47 Unity lessons",
+      "Taking on freelance projects · billthedev.com"
+    ]
+  },
+  "bio": {
+    "role": "Unity Engineer · Games, XR & Tools",
+    "focus": "Gameplay, multiplayer, VR, shaders",
+    "location": "Vietnam · remote or onsite",
+    "about": "Shipped Applaydu (50M+ downloads) at Gameloft and Shmackle VR on Meta Quest. Top 6 at Vietnam GameVerse 2024. Also builds web apps, automation and AI agents."
+  },
+  "career": [
+    { "role": "Senior Software Engineer", "org": "GEM Corporation", "years": "2026 – now", "current": true },
+    { "role": "Technical Artist (from Unity XR Dev)", "org": "CurlyBlue · Shmackle VR", "years": "2025 – 2026" },
+    { "role": "Unity Developer", "org": "FPT IS (akaVerse)", "years": "2024 – 2025" },
+    { "role": "Unity Developer", "org": "Golden Sea Studio", "years": "2024" },
+    { "role": "Game Developer", "org": "Gameloft Vietnam · Applaydu", "years": "2023" }
+  ],
+  "cv": "https://www.billthedev.com/Bill_Resume.pdf",
+  "socials": [
+    { "type": "website", "url": "https://www.billthedev.com", "label": "billthedev.com" },
+    { "type": "email", "url": "mailto:billtruong003@gmail.com", "label": "billtruong003@gmail.com" },
+    { "type": "linkedin", "url": "https://www.linkedin.com/in/billtruong003/", "label": "billtruong003" },
+    { "type": "github", "url": "https://github.com/billtruong003", "label": "billtruong003" },
+    { "type": "youtube", "url": "https://www.youtube.com/@BillTheDev", "label": "@BillTheDev" },
+    { "type": "youtube", "url": "https://www.youtube.com/@BillVRGamer", "label": "@BillVRGamer" },
+    { "type": "youtube", "url": "https://www.youtube.com/@BillAITrainer", "label": "@BillAITrainer" },
+    { "type": "itchdotio", "url": "https://billtruong003.itch.io/", "label": "billtruong003" },
+    { "type": "facebook", "url": "https://www.facebook.com/billthedev/", "label": "billthedev" },
+    { "type": "instagram", "url": "https://instagram.com/bill.workaholic", "label": "bill.workaholic" },
+    { "type": "discord", "url": "https://discord.gg/truongngocchau", "label": "truongngocchau" }
+  ],
+  "arsenal": [
+    "Unity", "C#", "HLSL", "Shader Graph", "Photon", "PlayFab", "Meta Quest", "Blender",
+    "Python", "NVIDIA", "C++", "C", "JavaScript", "HTML", "CSS", "React",
+    "Next.js", "Firebase", "Git", "GitHub", "GitLab", "Jira", "Figma"
+  ],
+  "spotlight": ["KeyStream-Gemini", "Bill-SSOutline", "Bill-Biome-Shader", "SceneSwitcherToolUnity"],
+  "feeds": ["https://www.youtube.com/feeds/videos.xml?channel_id=UCdRe_4FG7JhOERlfcyeNhnw"],
+  "quotes": "builtin"
 }
