@@ -38,10 +38,10 @@
 <path class="breathe" d="M185 1H199V15M1 119V133H15" fill="none" stroke="#3d8bff" stroke-width="2" filter="url(#glow)"/>
 <g>
 <g class="fx-ex" filter="url(#fx-blur)" opacity="0.75"><path d="M24.4 19H71V59.6L65.6 65H19V24.4Z" fill="none" stroke="#f2fbff" stroke-width="3"/></g>
-<path d="M24 18H72V60L66 66H18V24Z" fill="#060a14"/><clipPath id="sg17"><path d="M24 18H72V60L66 66H18V24Z"/></clipPath><g clip-path="url(#sg17)"><rect class="sweep" x="-36" y="18" width="54" height="48" fill="url(#prism)"/></g>
+<path d="M24 18H72V60L66 66H18V24Z" fill="#060a14"/><clipPath id="sg11"><path d="M24 18H72V60L66 66H18V24Z"/></clipPath><g clip-path="url(#sg11)"><rect class="sweep" x="-36" y="18" width="54" height="48" fill="url(#prism)"/></g>
 <path d="M24.4 19H71V59.6L65.6 65H19V24.4Z" fill="none" stroke="#f2fbff" stroke-width="2"/><path d="M25.5 22.5H67.5V58.5L64.5 61.5H22.5V25.5Z" fill="none" stroke="#f2fbff" stroke-width="1"/>
 <text x="45" y="49.2" class="rank" fill="#f2fbff" text-anchor="middle">EX</text>
-<clipPath id="fs11"><path d="M24 18H72V60L66 66H18V24Z"/></clipPath><g clip-path="url(#fs11)"><rect class="shine" x="-6.3" y="18" width="24.3" height="48" fill="url(#shine)" style="animation-duration:2.4s"/></g><path class="spark" d="M24.5 11.4L27.3 14.2L24.5 17.0L21.7 14.2Z" fill="#f2fbff" style="animation-delay:0s"/><path class="spark" d="M67.7 23.8L70.5 26.6L67.7 29.4L64.9 26.6Z" fill="#f2fbff" style="animation-delay:0.6s"/><path class="spark" d="M22.3 56.5L25.1 59.3L22.3 62.1L19.5 59.3Z" fill="#f2fbff" style="animation-delay:1.2s"/><path class="spark" d="M60.1 64.2L62.9 67.0L60.1 69.8L57.3 67.0Z" fill="#f2fbff" style="animation-delay:1.8s"/>
+<clipPath id="fs9"><path d="M24 18H72V60L66 66H18V24Z"/></clipPath><g clip-path="url(#fs9)"><rect class="shine" x="-6.3" y="18" width="24.3" height="48" fill="url(#shine)" style="animation-duration:2.4s"/></g><path class="spark" d="M24.5 11.4L27.3 14.2L24.5 17.0L21.7 14.2Z" fill="#f2fbff" style="animation-delay:0s"/><path class="spark" d="M67.7 23.8L70.5 26.6L67.7 29.4L64.9 26.6Z" fill="#f2fbff" style="animation-delay:0.6s"/><path class="spark" d="M22.3 56.5L25.1 59.3L22.3 62.1L19.5 59.3Z" fill="#f2fbff" style="animation-delay:1.2s"/><path class="spark" d="M60.1 64.2L62.9 67.0L60.1 69.8L57.3 67.0Z" fill="#f2fbff" style="animation-delay:1.8s"/>
 </g>
 <text x="84" y="36" class="label" fill="#8a9bc0">VIT</text>
 <text x="84" y="58" class="body" fill="#e6edf7">Active repos</text>

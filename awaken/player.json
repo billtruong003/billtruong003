@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.9906574188768386,
+  "overallPercentile": 0.9906594168682878,
   "layout": "custom",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1174,
+      "value": 1175,
       "rank": "S",
-      "percentile": 0.9798504913751657
+      "percentile": 0.9798775164993093
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1174
+      "value": 1175
     },
     {
       "id": "unbroken",
@@ -93,7 +93,7 @@
     {
       "id": "gate-opener",
       "tier": 3,
-      "value": 54
+      "value": 55
     },
     {
       "id": "raider",
@@ -198,5 +198,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-10-05T16:29:48.754Z"
+  "syncedAt": "2026-10-05T16:35:39.141Z"
 }

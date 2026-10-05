@@ -44,7 +44,7 @@
 <path d="M28 72H96V140L88 148H20V80Z" fill="#f4f7fc"/>
 <path d="M28.4 73H95V139.6L87.6 147H21V80.4Z" fill="none" stroke="#d45d0c" stroke-width="2"/><path d="M29.5 76.5H91.5V138.5L86.5 143.5H24.5V81.5Z" fill="none" stroke="#d45d0c" stroke-width="1"/>
 <text x="58" y="123.7" class="hero" fill="#d45d0c" text-anchor="middle" style="font-size:38px">SS</text>
-<clipPath id="fs13"><path d="M28 72H96V140L88 148H20V80Z"/></clipPath><g clip-path="url(#fs13)"><rect class="shine" x="-14.2" y="72" width="34.2" height="76" fill="url(#shine)" style="animation-duration:3.2s"/></g>
+<clipPath id="fs11"><path d="M28 72H96V140L88 148H20V80Z"/></clipPath><g clip-path="url(#fs11)"><rect class="shine" x="-14.2" y="72" width="34.2" height="76" fill="url(#shine)" style="animation-duration:3.2s"/></g>
 </g>
 <text x="58" y="168" class="caption" fill="#0d1830" text-anchor="middle">TOP 0.9%</text>
 <text x="124" y="78" class="name" fill="#0d1830">billtruong003</text>
@@ -58,7 +58,7 @@
 <path d="M458.4 65H499V89.6L493.6 95H453V70.4Z" fill="none" stroke="#a67800" stroke-width="2"/><path d="M459.5 68.5H495.5V88.5L492.5 91.5H456.5V71.5Z" fill="none" stroke="#a67800" stroke-width="1"/>
 <text x="476" y="87.2" class="rank" fill="#a67800" text-anchor="middle">S</text>
 
-</g><text x="510" y="70" class="label" fill="#4a5a7c">STR</text><text x="510" y="88" class="value" fill="#0d1830">1,174</text><text x="510" y="103" class="code" fill="#4a5a7c">TOP 2.0%</text>
+</g><text x="510" y="70" class="label" fill="#4a5a7c">STR</text><text x="510" y="88" class="value" fill="#0d1830">1,175</text><text x="510" y="103" class="code" fill="#4a5a7c">TOP 2.0%</text>
 <g>
 
 <path d="M582 64H624V90L618 96H576V70Z" fill="#f4f7fc"/>
@@ -75,17 +75,17 @@
 </g><text x="758" y="70" class="label" fill="#4a5a7c">INT</text><text x="758" y="88" class="value" fill="#0d1830">1</text><text x="758" y="103" class="code" fill="#4a5a7c">TOP 21%</text>
 <g>
 
-<path d="M458 128H500V154L494 160H452V134Z" fill="#f4f7fc"/><clipPath id="sg24"><path d="M458 128H500V154L494 160H452V134Z"/></clipPath><g clip-path="url(#sg24)"><rect class="sweep" x="404" y="128" width="48" height="32" fill="url(#prism)"/></g>
+<path d="M458 128H500V154L494 160H452V134Z" fill="#f4f7fc"/><clipPath id="sg18"><path d="M458 128H500V154L494 160H452V134Z"/></clipPath><g clip-path="url(#sg18)"><rect class="sweep" x="404" y="128" width="48" height="32" fill="url(#prism)"/></g>
 <path d="M458.4 129H499V153.6L493.6 159H453V134.4Z" fill="none" stroke="#111827" stroke-width="2"/><path d="M459.5 132.5H495.5V152.5L492.5 155.5H456.5V135.5Z" fill="none" stroke="#111827" stroke-width="1"/>
 <text x="476" y="151.2" class="rank" fill="#111827" text-anchor="middle">EX</text>
-<clipPath id="fs14"><path d="M458 128H500V154L494 160H452V134Z"/></clipPath><g clip-path="url(#fs14)"><rect class="shine" x="430.4" y="128" width="21.6" height="32" fill="url(#shine)" style="animation-duration:2.4s"/></g><path class="spark" d="M457.8 122.6L460.6 125.4L457.8 128.2L455.0 125.4Z" fill="#111827" style="animation-delay:0s"/><path class="spark" d="M496.2 131.0L499.0 133.8L496.2 136.6L493.4 133.8Z" fill="#111827" style="animation-delay:0.6s"/><path class="spark" d="M455.8 152.7L458.6 155.5L455.8 158.3L453.0 155.5Z" fill="#111827" style="animation-delay:1.2s"/><path class="spark" d="M489.4 157.8L492.2 160.6L489.4 163.4L486.6 160.6Z" fill="#111827" style="animation-delay:1.8s"/>
+<clipPath id="fs12"><path d="M458 128H500V154L494 160H452V134Z"/></clipPath><g clip-path="url(#fs12)"><rect class="shine" x="430.4" y="128" width="21.6" height="32" fill="url(#shine)" style="animation-duration:2.4s"/></g><path class="spark" d="M457.8 122.6L460.6 125.4L457.8 128.2L455.0 125.4Z" fill="#111827" style="animation-delay:0s"/><path class="spark" d="M496.2 131.0L499.0 133.8L496.2 136.6L493.4 133.8Z" fill="#111827" style="animation-delay:0.6s"/><path class="spark" d="M455.8 152.7L458.6 155.5L455.8 158.3L453.0 155.5Z" fill="#111827" style="animation-delay:1.2s"/><path class="spark" d="M489.4 157.8L492.2 160.6L489.4 163.4L486.6 160.6Z" fill="#111827" style="animation-delay:1.8s"/>
 </g><text x="510" y="134" class="label" fill="#4a5a7c">VIT</text><text x="510" y="152" class="value" fill="#0d1830">41</text><text x="510" y="167" class="code" fill="#4a5a7c">TOP 0.02%</text>
 <g>
 
 <path d="M582 128H624V154L618 160H576V134Z" fill="#f4f7fc"/>
 <path d="M582.4 129H623V153.6L617.6 159H577V134.4Z" fill="none" stroke="#d61f45" stroke-width="2"/><path d="M583.5 132.5H619.5V152.5L616.5 155.5H580.5V135.5Z" fill="none" stroke="#d61f45" stroke-width="1"/>
 <text x="600" y="151.2" class="rank tight" fill="#d61f45" text-anchor="middle">SSS</text>
-<clipPath id="fs15"><path d="M582 128H624V154L618 160H576V134Z"/></clipPath><g clip-path="url(#fs15)"><rect class="shine" x="554.4" y="128" width="21.6" height="32" fill="url(#shine)" style="animation-duration:1.9s"/></g>
+<clipPath id="fs13"><path d="M582 128H624V154L618 160H576V134Z"/></clipPath><g clip-path="url(#fs13)"><rect class="shine" x="554.4" y="128" width="21.6" height="32" fill="url(#shine)" style="animation-duration:1.9s"/></g>
 </g><text x="634" y="134" class="label" fill="#4a5a7c">LUK</text><text x="634" y="152" class="value" fill="#0d1830">93</text><text x="634" y="167" class="code" fill="#4a5a7c">TOP 0.4%</text>
 <g>
 
