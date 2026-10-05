@@ -1,6 +1,6 @@
 {
   "username": "billtruong003",
-  "layout": "custom",
+  "layout": "bento",
   "theme": "solo_leveling",
   "title": "night-owl",
   "activity": "arise",
@@ -8,26 +8,6 @@
   "motion": "full",
   "timezone": "Asia/Ho_Chi_Minh",
   "hours": true,
-  "widgets": [
-    "levelup",
-    "banner",
-    "hunter",
-    "bio",
-    "career",
-    "contacts",
-    "cv",
-    "ladder",
-    "web",
-    "skills",
-    "arsenal",
-    "spotlight",
-    "activity",
-    "board",
-    "oracle",
-    "daily",
-    "hours",
-    "achievements"
-  ],
   "banner": {
     "style": "typewriter",
     "lines": [
@@ -159,8 +139,146 @@
   "quotes": [
     "dry",
     {
+      "text": "My git history is like my browser history: I force-push before anyone checks.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "I don't always pull out, but when I do, it's a pull request.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Merge conflict: two branches went in at the same time and nobody wanted to be on the bottom.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "She said \"commit\". I said \"git add\" first, foreplay matters.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Rebasing is just lying about your past with extra steps.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "My code is like my love life: full of exceptions nobody catches.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "I'm not saying the codebase is old, but its first commit message was a fax.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Senior dev move: write it dirty, squash it, and tell everyone it was clean the first time.",
+      "author": "Bill The Dev"
+    },
+    {
       "text": "I studied 4 years at university just to be a condom for Claude Code.",
       "author": "Bill The Dev"
+    },
+    {
+      "text": "The AI writes the code, I take the blame. Basically a surrogate dad for bugs.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Vibe coding: unprotected deploys and a lot of praying.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "I don't review AI code. I just wipe and hope.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Copilot finishes my sentences better than my ex ever did.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Prompt engineer: professional at begging a robot to go deeper.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "VR dev: the only job where I wear a headset all day and still can't see my own bugs.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "My frame rate is like my stamina: 90 on a good day, 30 in front of the client.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Shader got wet, now everything is shiny. Don't ask.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Multiplayer is just single-player with more people watching you fail.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Unity said \"compiling scripts\" and I aged into a senior dev.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "I added physics to the boobs before the gameplay. Priorities, said every indie dev ever.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Standup: fifteen people pretending they did something yesterday.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Pair programming: two people, one keyboard, zero dignity.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Code review is foreplay. Production is where you find out who's been faking it.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "My PM wants it hard, fast, and on Friday. That's not a feature, that's a fetish.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Hotfix in production at 3 a.m.: wrong hole, but it works.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Tech debt is like a hangover: you didn't think about it while you were doing it.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Kubernetes: fifty containers, all screwing each other, and somehow it's my fault.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "The client wanted it bigger. It's always bigger. They never ask for better.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Deploy on Friday and spend the weekend with your logs instead of your partner.",
+      "author": "Bill The Dev"
+    },
+    {
+      "text": "Documentation is like safe sex: everyone agrees it's important, nobody actually does it.",
+      "author": "Bill The Dev"
     }
+  ],
+  "bento": [
+    [
+      "hunter"
+    ],
+    [
+      "bio",
+      "career",
+      "web"
+    ],
+    [
+      "arsenal",
+      "daily"
+    ],
+    [
+      "activity",
+      "oracle"
+    ],
+    [
+      "spotlight",
+      "board"
+    ]
   ]
 }
