@@ -94,6 +94,16 @@
       "label": "@BillTheDev"
     },
     {
+      "type": "youtube",
+      "url": "https://www.youtube.com/@BillVRGamer",
+      "label": "@BillVRGamer"
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/@BillAITrainer",
+      "label": "@BillAITrainer"
+    },
+    {
       "type": "itchdotio",
       "url": "https://billtruong003.itch.io/",
       "label": "billtruong003"
@@ -102,6 +112,16 @@
       "type": "facebook",
       "url": "https://www.facebook.com/billthedev/",
       "label": "billthedev"
+    },
+    {
+      "type": "instagram",
+      "url": "https://instagram.com/bill.workaholic",
+      "label": "bill.workaholic"
+    },
+    {
+      "type": "discord",
+      "url": "https://discord.gg/truongngocchau",
+      "label": "truongngocchau"
     }
   ],
   "arsenal": [
@@ -131,12 +151,16 @@
   ],
   "spotlight": [
     "KeyStream-Gemini",
-    "Bill-SSOutline",
-    "Bill-Biome-Shader",
-    "SceneSwitcherToolUnity"
+    "Bill-SSOutline"
   ],
   "feeds": [
     "https://www.youtube.com/feeds/videos.xml?channel_id=UCdRe_4FG7JhOERlfcyeNhnw"
   ],
-  "quotes": "builtin"
+  "quotes": [
+    "dry",
+    {
+      "text": "I studied 4 years at university just to be a condom for Claude Code.",
+      "author": "Bill The Dev"
+    }
+  ]
 }
