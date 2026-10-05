@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.9908305299006913,
+  "overallPercentile": 0.9909185684968178,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -19,9 +19,9 @@
     },
     {
       "code": "AGI",
-      "value": 14,
+      "value": 15,
       "rank": "B",
-      "percentile": 0.8566042776614048
+      "percentile": 0.8638522312743485
     },
     {
       "code": "INT",
@@ -75,17 +75,17 @@
     {
       "id": "pull-shark",
       "tier": 1,
-      "value": 14
+      "value": 15
     },
     {
       "id": "quickdraw",
       "tier": 2,
-      "value": 11
+      "value": 12
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 14
+      "value": 15
     },
     {
       "id": "relentless",
@@ -100,7 +100,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 30
+      "value": 31
     },
     {
       "id": "early-bird",
@@ -115,7 +115,7 @@
     {
       "id": "gate-opener",
       "tier": 3,
-      "value": 55
+      "value": 56
     },
     {
       "id": "raider",
@@ -227,5 +227,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-05T17:04:33.909Z"
+  "syncedAt": "2026-10-05T23:07:30.543Z"
 }
