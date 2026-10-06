@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.9909185684968178,
+  "overallPercentile": 0.991044486199466,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1182,
+      "value": 1218,
       "rank": "SS",
-      "percentile": 0.9800651991597517
+      "percentile": 0.9809907127822812
     },
     {
       "code": "AGI",
@@ -37,9 +37,9 @@
     },
     {
       "code": "LUK",
-      "value": 93,
+      "value": 96,
       "rank": "SSS",
-      "percentile": 0.9958413964003467
+      "percentile": 0.9960868283034878
     },
     {
       "code": "CHA",
@@ -90,7 +90,7 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1182
+      "value": 1218
     },
     {
       "id": "unbroken",
@@ -110,12 +110,12 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 25
+      "value": 23
     },
     {
       "id": "gate-opener",
       "tier": 3,
-      "value": 56
+      "value": 54
     },
     {
       "id": "raider",
@@ -140,7 +140,7 @@
     {
       "id": "star-collector",
       "tier": 1,
-      "value": 93
+      "value": 96
     },
     {
       "id": "beacon",
@@ -165,7 +165,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 126
+      "value": 127
     },
     {
       "id": "daily-grinder",
@@ -180,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 6
+      "value": 8
     },
     {
       "id": "boss-slayer",
@@ -195,11 +195,16 @@
     {
       "id": "collector",
       "tier": 1,
-      "value": 5
+      "value": 6
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-06",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-05",
         "cleared": 3,
@@ -212,9 +217,9 @@
       }
     ],
     "perfectDays": 2,
-    "run": 2,
+    "run": 0,
     "bestRun": 2,
-    "questsDone": 6,
+    "questsDone": 8,
     "bosses": [
       "2026-09-28"
     ],
@@ -224,8 +229,9 @@
       "mp",
       "commit",
       "streak",
-      "three"
+      "three",
+      "average"
     ]
   },
-  "syncedAt": "2026-10-05T23:07:30.543Z"
+  "syncedAt": "2026-10-06T21:35:14.794Z"
 }
