@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.991324642678816,
+  "overallPercentile": 0.9920246072063362,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1218,
-      "rank": "SS",
-      "percentile": 0.9809907127822812
+      "value": 1155,
+      "rank": "S",
+      "percentile": 0.9793266329116556
     },
     {
       "code": "AGI",
@@ -31,24 +31,38 @@
     },
     {
       "code": "VIT",
-      "value": 42,
+      "value": 45,
       "rank": "EX",
-      "percentile": 0.9998305284776873
+      "percentile": 0.9998862982361633
     },
     {
       "code": "LUK",
-      "value": 104,
+      "value": 143,
       "rank": "SSS",
-      "percentile": 0.9966512934935275
+      "percentile": 0.9982589948416114
     },
     {
       "code": "CHA",
-      "value": 16,
-      "rank": "A",
-      "percentile": 0.9381457392667321
+      "value": 17,
+      "rank": "S",
+      "percentile": 0.9428804235570403
     }
   ],
   "events": [
+    {
+      "kind": "stat",
+      "subject": "STR",
+      "from": "SS",
+      "to": "S",
+      "at": "2026-10-08T22:00:09.732Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "CHA",
+      "from": "A",
+      "to": "S",
+      "at": "2026-10-08T22:00:09.732Z"
+    },
     {
       "kind": "achievement",
       "subject": "star-collector",
@@ -104,7 +118,7 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1218
+      "value": 1155
     },
     {
       "id": "unbroken",
@@ -113,13 +127,13 @@
     },
     {
       "id": "night-owl",
-      "tier": 2,
-      "value": 31
+      "tier": 1,
+      "value": 24
     },
     {
       "id": "early-bird",
       "tier": 1,
-      "value": 19
+      "value": 17
     },
     {
       "id": "weekend-warrior",
@@ -129,7 +143,7 @@
     {
       "id": "gate-opener",
       "tier": 3,
-      "value": 54
+      "value": 56
     },
     {
       "id": "raider",
@@ -149,17 +163,17 @@
     {
       "id": "polyglot",
       "tier": 3,
-      "value": 9
+      "value": 8
     },
     {
       "id": "star-collector",
       "tier": 2,
-      "value": 104
+      "value": 143
     },
     {
       "id": "beacon",
       "tier": 1,
-      "value": 16
+      "value": 17
     },
     {
       "id": "guild-hopper",
@@ -179,12 +193,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 128
+      "value": 129
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 3
+      "value": 4
     },
     {
       "id": "perfect-week",
@@ -194,12 +208,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 11
+      "value": 14
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 1
+      "value": 2
     },
     {
       "id": "escape-artist",
@@ -209,11 +223,16 @@
     {
       "id": "collector",
       "tier": 2,
-      "value": 7
+      "value": 8
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-08",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-07",
         "cleared": 3,
@@ -235,11 +254,12 @@
         "total": 3
       }
     ],
-    "perfectDays": 3,
-    "run": 1,
+    "perfectDays": 4,
+    "run": 2,
     "bestRun": 2,
-    "questsDone": 11,
+    "questsDone": 14,
     "bosses": [
+      "2026-10-05",
       "2026-09-28"
     ],
     "escapes": 0,
@@ -250,8 +270,9 @@
       "streak",
       "three",
       "average",
-      "star"
+      "star",
+      "issue"
     ]
   },
-  "syncedAt": "2026-10-07T21:56:27.706Z"
+  "syncedAt": "2026-10-08T22:00:09.732Z"
 }
