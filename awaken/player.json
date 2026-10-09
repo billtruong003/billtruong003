@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.9920246072063362,
+  "overallPercentile": 0.9921227783114362,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -37,9 +37,9 @@
     },
     {
       "code": "LUK",
-      "value": 143,
+      "value": 151,
       "rank": "SSS",
-      "percentile": 0.9982589948416114
+      "percentile": 0.9984517433011024
     },
     {
       "code": "CHA",
@@ -143,7 +143,7 @@
     {
       "id": "gate-opener",
       "tier": 3,
-      "value": 56
+      "value": 57
     },
     {
       "id": "raider",
@@ -163,12 +163,12 @@
     {
       "id": "polyglot",
       "tier": 3,
-      "value": 8
+      "value": 9
     },
     {
       "id": "star-collector",
       "tier": 2,
-      "value": 143
+      "value": 151
     },
     {
       "id": "beacon",
@@ -198,17 +198,17 @@
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 4
+      "value": 5
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 14
+      "value": 17
     },
     {
       "id": "boss-slayer",
@@ -223,11 +223,16 @@
     {
       "id": "collector",
       "tier": 2,
-      "value": 8
+      "value": 9
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-09",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-08",
         "cleared": 3,
@@ -254,10 +259,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 4,
-    "run": 2,
-    "bestRun": 2,
-    "questsDone": 14,
+    "perfectDays": 5,
+    "run": 3,
+    "bestRun": 3,
+    "questsDone": 17,
     "bosses": [
       "2026-10-05",
       "2026-09-28"
@@ -271,8 +276,9 @@
       "three",
       "average",
       "star",
-      "issue"
+      "issue",
+      "two-repos"
     ]
   },
-  "syncedAt": "2026-10-08T22:00:09.732Z"
+  "syncedAt": "2026-10-09T21:36:15.046Z"
 }
