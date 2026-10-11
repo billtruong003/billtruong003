@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.99214655707071,
+  "overallPercentile": 0.9921583370832028,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -37,9 +37,9 @@
     },
     {
       "code": "LUK",
-      "value": 153,
+      "value": 154,
       "rank": "SSS",
-      "percentile": 0.9984954031838242
+      "percentile": 0.9985166136466871
     },
     {
       "code": "CHA",
@@ -168,7 +168,7 @@
     {
       "id": "star-collector",
       "tier": 2,
-      "value": 153
+      "value": 154
     },
     {
       "id": "beacon",
@@ -193,7 +193,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 129
+      "value": 128
     },
     {
       "id": "daily-grinder",
@@ -228,6 +228,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-11",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-10-10",
         "cleared": 0,
@@ -285,5 +290,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-10-10T20:32:47.487Z"
+  "syncedAt": "2026-10-11T20:55:08.736Z"
 }
