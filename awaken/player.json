@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.9921583370832028,
+  "overallPercentile": 0.9921816828465232,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -37,9 +37,9 @@
     },
     {
       "code": "LUK",
-      "value": 154,
+      "value": 156,
       "rank": "SSS",
-      "percentile": 0.9985166136466871
+      "percentile": 0.9985578446999183
     },
     {
       "code": "CHA",
@@ -76,27 +76,6 @@
       "from": "1",
       "to": "2",
       "at": "2026-10-07T21:56:27.706Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-05T17:04:33.909Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "STR",
-      "from": "S",
-      "to": "SS",
-      "at": "2026-10-05T16:47:30.914Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "night-owl",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-05T16:42:52.370Z"
     }
   ],
   "achievements": [
@@ -168,7 +147,7 @@
     {
       "id": "star-collector",
       "tier": 2,
-      "value": 154
+      "value": 156
     },
     {
       "id": "beacon",
@@ -228,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-12",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-10-11",
         "cleared": 0,
@@ -290,5 +274,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-10-11T20:55:08.736Z"
+  "syncedAt": "2026-10-12T23:35:13.003Z"
 }
