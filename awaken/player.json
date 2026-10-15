@@ -62,20 +62,6 @@
       "from": "A",
       "to": "S",
       "at": "2026-10-08T22:00:09.732Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "star-collector",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-07T21:56:27.706Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-07T21:56:27.706Z"
     }
   ],
   "achievements": [
@@ -208,6 +194,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-15",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-14",
         "cleared": 1,
         "total": 3
@@ -284,5 +275,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-10-14T20:36:32.748Z"
+  "syncedAt": "2026-10-15T20:17:14.844Z"
 }
