@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.9921932503370958,
+  "overallPercentile": 0.9922047487003179,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -37,9 +37,9 @@
     },
     {
       "code": "LUK",
-      "value": 157,
+      "value": 158,
       "rank": "SSS",
-      "percentile": 0.998577884072363
+      "percentile": 0.9985975514128528
     },
     {
       "code": "CHA",
@@ -118,7 +118,7 @@
     {
       "id": "star-collector",
       "tier": 2,
-      "value": 157
+      "value": 158
     },
     {
       "id": "beacon",
@@ -158,12 +158,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 20
+      "value": 21
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 2
+      "value": 3
     },
     {
       "id": "escape-artist",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-17",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-16",
         "cleared": 2,
@@ -247,8 +252,9 @@
     "perfectDays": 5,
     "run": 0,
     "bestRun": 3,
-    "questsDone": 20,
+    "questsDone": 21,
     "bosses": [
+      "2026-10-12",
       "2026-10-05",
       "2026-09-28"
     ],
@@ -265,5 +271,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-10-16T19:53:37.439Z"
+  "syncedAt": "2026-10-17T19:15:26.930Z"
 }
