@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.9922962749216093,
+  "overallPercentile": 0.992357376823491,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1155,
+      "value": 1156,
       "rank": "S",
-      "percentile": 0.9793266329116556
+      "percentile": 0.9793547046197953
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 45,
+      "value": 46,
       "rank": "EX",
-      "percentile": 0.9998862982361633
+      "percentile": 0.9999000986673305
     },
     {
       "code": "LUK",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1155
+      "value": 1156
     },
     {
       "id": "unbroken",
@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 129
+      "value": 130
     },
     {
       "id": "daily-grinder",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 22
+      "value": 23
     },
     {
       "id": "boss-slayer",
@@ -168,7 +168,7 @@
     {
       "id": "escape-artist",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "collector",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-22",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-21",
         "cleared": 0,
@@ -272,13 +277,13 @@
     "perfectDays": 5,
     "run": 0,
     "bestRun": 3,
-    "questsDone": 22,
+    "questsDone": 23,
     "bosses": [
       "2026-10-12",
       "2026-10-05",
       "2026-09-28"
     ],
-    "escapes": 1,
+    "escapes": 2,
     "kinds": [
       "contribute",
       "mp",
@@ -291,5 +296,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-10-21T20:33:05.692Z"
+  "syncedAt": "2026-10-22T20:30:41.902Z"
 }
