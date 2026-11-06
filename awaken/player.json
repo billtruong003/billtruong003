@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.9923614330254239,
+  "overallPercentile": 0.9924271356260407,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -43,9 +43,9 @@
     },
     {
       "code": "CHA",
-      "value": 18,
+      "value": 19,
       "rank": "S",
-      "percentile": 0.9471261774790207
+      "percentile": 0.950946869127056
     }
   ],
   "events": [],
@@ -93,7 +93,7 @@
     {
       "id": "gate-opener",
       "tier": 3,
-      "value": 58
+      "value": 59
     },
     {
       "id": "raider",
@@ -123,7 +123,7 @@
     {
       "id": "beacon",
       "tier": 1,
-      "value": 18
+      "value": 19
     },
     {
       "id": "guild-hopper",
@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 131
+      "value": 132
     },
     {
       "id": "daily-grinder",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 30
+      "value": 31
     },
     {
       "id": "boss-slayer",
@@ -168,7 +168,7 @@
     {
       "id": "escape-artist",
       "tier": 1,
-      "value": 4
+      "value": 5
     },
     {
       "id": "collector",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-06",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-05",
         "cleared": 0,
@@ -347,14 +352,14 @@
     "perfectDays": 5,
     "run": 0,
     "bestRun": 3,
-    "questsDone": 30,
+    "questsDone": 31,
     "bosses": [
       "2026-10-26",
       "2026-10-12",
       "2026-10-05",
       "2026-09-28"
     ],
-    "escapes": 4,
+    "escapes": 5,
     "kinds": [
       "contribute",
       "mp",
@@ -367,5 +372,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-05T22:38:46.266Z"
+  "syncedAt": "2026-11-06T22:00:25.187Z"
 }
