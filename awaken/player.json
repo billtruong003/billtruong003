@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 14,
   "overall": "SS",
-  "overallPercentile": 0.9924271356260407,
+  "overallPercentile": 0.9921773104616007,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 1158,
+      "value": 1153,
       "rank": "S",
-      "percentile": 0.9794106788859834
+      "percentile": 0.9792703195773826
     },
     {
       "code": "AGI",
-      "value": 15,
+      "value": 13,
       "rank": "B",
-      "percentile": 0.8638522312743485
+      "percentile": 0.8487077306348415
     },
     {
       "code": "INT",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 46,
+      "value": 45,
       "rank": "EX",
-      "percentile": 0.9999000986673305
+      "percentile": 0.9998862982361633
     },
     {
       "code": "LUK",
@@ -53,22 +53,22 @@
     {
       "id": "pull-shark",
       "tier": 1,
-      "value": 15
+      "value": 13
     },
     {
       "id": "quickdraw",
       "tier": 2,
-      "value": 12
+      "value": 10
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 15
+      "value": 13
     },
     {
       "id": "relentless",
       "tier": 2,
-      "value": 1158
+      "value": 1153
     },
     {
       "id": "unbroken",
@@ -78,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 1,
-      "value": 24
+      "value": 23
     },
     {
       "id": "early-bird",
@@ -93,7 +93,7 @@
     {
       "id": "gate-opener",
       "tier": 3,
-      "value": 59
+      "value": 58
     },
     {
       "id": "raider",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-12",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-11",
         "cleared": 0,
@@ -397,5 +402,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-11T23:25:34.365Z"
+  "syncedAt": "2026-11-12T22:40:52.563Z"
 }
