@@ -1,21 +1,21 @@
 {
   "login": "billtruong003",
-  "level": 14,
+  "level": 11,
   "overall": "SS",
-  "overallPercentile": 0.9921773104616007,
+  "overallPercentile": 0.9880252495638839,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
     "element": "Light",
     "from": "C#"
   },
-  "title": "Night Owl",
+  "title": "Berserker",
   "stats": [
     {
       "code": "STR",
-      "value": 1153,
+      "value": 651,
       "rank": "S",
-      "percentile": 0.9792703195773826
+      "percentile": 0.9522233136280173
     },
     {
       "code": "AGI",
@@ -25,21 +25,21 @@
     },
     {
       "code": "INT",
-      "value": 2,
+      "value": 1,
       "rank": "B",
-      "percentile": 0.8091006482565466
+      "percentile": 0.7872854778967882
     },
     {
       "code": "VIT",
-      "value": 45,
-      "rank": "EX",
-      "percentile": 0.9998862982361633
+      "value": 27,
+      "rank": "SSS",
+      "percentile": 0.9983035213177796
     },
     {
       "code": "LUK",
-      "value": 160,
+      "value": 136,
       "rank": "SSS",
-      "percentile": 0.9986358046650836
+      "percentile": 0.9980628604784283
     },
     {
       "code": "CHA",
@@ -48,7 +48,15 @@
       "percentile": 0.950946869127056
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "EX",
+      "to": "SSS",
+      "at": "2026-11-13T22:30:59.854Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -58,7 +66,7 @@
     {
       "id": "quickdraw",
       "tier": 2,
-      "value": 10
+      "value": 9
     },
     {
       "id": "yolo",
@@ -67,8 +75,8 @@
     },
     {
       "id": "relentless",
-      "tier": 2,
-      "value": 1153
+      "tier": 1,
+      "value": 651
     },
     {
       "id": "unbroken",
@@ -77,13 +85,13 @@
     },
     {
       "id": "night-owl",
-      "tier": 1,
-      "value": 23
+      "tier": 0,
+      "value": 17
     },
     {
       "id": "early-bird",
       "tier": 1,
-      "value": 18
+      "value": 21
     },
     {
       "id": "weekend-warrior",
@@ -92,8 +100,8 @@
     },
     {
       "id": "gate-opener",
-      "tier": 3,
-      "value": 58
+      "tier": 2,
+      "value": 31
     },
     {
       "id": "raider",
@@ -112,13 +120,13 @@
     },
     {
       "id": "polyglot",
-      "tier": 3,
-      "value": 9
+      "tier": 2,
+      "value": 7
     },
     {
       "id": "star-collector",
       "tier": 2,
-      "value": 160
+      "value": 136
     },
     {
       "id": "beacon",
@@ -178,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-13",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-12",
         "cleared": 0,
@@ -402,5 +415,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-12T22:40:52.563Z"
+  "syncedAt": "2026-11-13T22:30:59.854Z"
 }
