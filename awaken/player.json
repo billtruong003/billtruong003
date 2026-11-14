@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 11,
   "overall": "SS",
-  "overallPercentile": 0.9880252495638839,
+  "overallPercentile": 0.9878897223363761,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -43,9 +43,9 @@
     },
     {
       "code": "CHA",
-      "value": 19,
+      "value": 18,
       "rank": "S",
-      "percentile": 0.950946869127056
+      "percentile": 0.9471261774790207
     }
   ],
   "events": [
@@ -131,7 +131,7 @@
     {
       "id": "beacon",
       "tier": 1,
-      "value": 19
+      "value": 18
     },
     {
       "id": "guild-hopper",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-14",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-13",
         "cleared": 0,
@@ -415,5 +420,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-13T22:30:59.854Z"
+  "syncedAt": "2026-11-14T21:22:23.999Z"
 }
