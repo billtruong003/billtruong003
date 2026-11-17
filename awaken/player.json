@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 11,
   "overall": "SS",
-  "overallPercentile": 0.9878897223363761,
+  "overallPercentile": 0.9876841248122692,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 27,
+      "value": 26,
       "rank": "SSS",
-      "percentile": 0.9983035213177796
+      "percentile": 0.9979755351575059
     },
     {
       "code": "LUK",
@@ -101,7 +101,7 @@
     {
       "id": "gate-opener",
       "tier": 2,
-      "value": 31
+      "value": 30
     },
     {
       "id": "raider",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-16",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-15",
         "cleared": 0,
@@ -425,5 +430,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-15T21:40:54.531Z"
+  "syncedAt": "2026-11-17T00:44:58.802Z"
 }
