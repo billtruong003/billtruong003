@@ -91,7 +91,7 @@
     {
       "id": "early-bird",
       "tier": 1,
-      "value": 20
+      "value": 21
     },
     {
       "id": "weekend-warrior",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-19",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-18",
         "cleared": 0,
@@ -440,5 +445,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-18T23:20:45.392Z"
+  "syncedAt": "2026-11-19T23:29:59.863Z"
 }
