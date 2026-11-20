@@ -48,15 +48,7 @@
       "percentile": 0.9471261774790207
     }
   ],
-  "events": [
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "EX",
-      "to": "SSS",
-      "at": "2026-11-13T22:30:59.854Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -186,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-20",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-19",
         "cleared": 0,
@@ -445,5 +442,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-19T23:29:59.863Z"
+  "syncedAt": "2026-11-20T23:01:59.616Z"
 }
