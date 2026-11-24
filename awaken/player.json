@@ -83,7 +83,7 @@
     {
       "id": "early-bird",
       "tier": 1,
-      "value": 21
+      "value": 20
     },
     {
       "id": "weekend-warrior",
@@ -93,7 +93,7 @@
     {
       "id": "gate-opener",
       "tier": 2,
-      "value": 30
+      "value": 31
     },
     {
       "id": "raider",
@@ -113,7 +113,7 @@
     {
       "id": "polyglot",
       "tier": 2,
-      "value": 7
+      "value": 6
     },
     {
       "id": "star-collector",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-23",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-22",
         "cleared": 0,
@@ -452,5 +457,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-22T22:24:38.376Z"
+  "syncedAt": "2026-11-24T03:16:00.910Z"
 }
