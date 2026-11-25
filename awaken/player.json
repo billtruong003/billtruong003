@@ -2,7 +2,7 @@
   "login": "billtruong003",
   "level": 11,
   "overall": "SS",
-  "overallPercentile": 0.9876841248122692,
+  "overallPercentile": 0.9877112523975906,
   "layout": "bento",
   "class": {
     "name": "Holy Knight",
@@ -37,9 +37,9 @@
     },
     {
       "code": "LUK",
-      "value": 136,
+      "value": 137,
       "rank": "SSS",
-      "percentile": 0.9980628604784283
+      "percentile": 0.9980926476946481
     },
     {
       "code": "CHA",
@@ -118,7 +118,7 @@
     {
       "id": "star-collector",
       "tier": 2,
-      "value": 136
+      "value": 137
     },
     {
       "id": "beacon",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-24",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-23",
         "cleared": 0,
@@ -457,5 +462,5 @@
       "two-repos"
     ]
   },
-  "syncedAt": "2026-11-24T03:16:00.910Z"
+  "syncedAt": "2026-11-25T01:21:13.212Z"
 }
